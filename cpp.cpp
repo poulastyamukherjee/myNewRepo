@@ -1,8 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
 
-int main()
+void main()
 {
 cout<<"hi"";
-return(0);
 }
