@@ -3,7 +3,7 @@
 
 void main()
 {
-int a=2,b=3;
+int a=2,b=5;
 
 cout<<"hi the sum of a and b"<<a+b;
 }
