@@ -3,5 +3,7 @@
 
 void main()
 {
-cout<<"hi"";
+int a=2,b=3;
+
+cout<<"hi the sum of a and b"<<a+b;
 }
